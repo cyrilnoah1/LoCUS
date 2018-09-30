@@ -1,12 +1,12 @@
 # LoCUS
 LoCUS (Logger's Common Utility Package) is a library that helps developers save their logs in 
 a local storage (database/file) and easily access the data on the fly. Developers can use the 
-library in the same, Android's conventional fashion bearing only a few API changes.
+library in Android's conventional fashion bearing only a few API changes.
 
 ### APIs 
 Following are the APIs that provide you the access to logger methods that help log stack trace to the 
 local database, and a file containing the logs can be generated at any point of time with the help of 
-a Floating Head that access the logs and display useful information about each of them.
+a Floating Head that accesses the logs and displays useful information about each of them.
 
 ### Initialization
 The Logger can be initialized by calling *Locus.init(applicationContext)* function in your app's 
